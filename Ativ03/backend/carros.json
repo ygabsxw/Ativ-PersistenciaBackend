@@ -1,0 +1,17 @@
+{
+  "carro1": {
+    "nome": "Carro Básico",
+    "descricao": "Um carro simples para começar.",
+    "preco": 50
+  },
+  "carro2": {
+    "nome": "Carro Esportivo",
+    "descricao": "Rápido e veloz.",
+    "preco": 200
+  },
+  "carro3": {
+    "nome": "Carro de Luxo",
+    "descricao": "Conforto e tecnologia de ponta.",
+    "preco": 1000
+  }
+}
